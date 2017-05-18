@@ -7,7 +7,6 @@ tmp
 dist
 /*.iml
 /out
-evolutions
 
 /.idea
 /.idea_modules
