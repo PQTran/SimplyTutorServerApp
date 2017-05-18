@@ -33,7 +33,6 @@ public class User extends Model {
     @Size(max = 30)
     private String password;
 
-    @NotNull
     @Size(max = 100)
     private String hashedPassword;
 
